@@ -1,0 +1,57 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+font-family:Big Caslon,serif/sans-serif;
+background: rgb(77,93,120);
+color:rgb(159,188,237);
+margin:5px;	
+
+}
+
+#container{
+	width: 850px;
+	margin:auto;
+border: 10px solid rgb(15,15,15);
+background:rgb(255, 232, 232);	
+
+}
+
+ul{
+list-style:none;
+padding-left:5px;
+
+}
+
+a{
+color:rgb(192, 95, 201);	
+}
+
+a:hover{
+color:rgb(175, 194, 196);	
+}
+
+figure{
+	margin:30px;
+}
+
+figure img{
+width:70%;
+}
+
+figcaption,footer{
+font-size:0.85em;	
+}

@@ -1,0 +1,41 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+font-family:Luminari;	
+background:#0fa3b1;
+color:#f9f7f3;
+
+}
+
+
+div#container {
+margin:auto;
+margin-top:20px;
+width:800px;
+border:0px solid black;
+Background-color:#b5e2fa;	
+}
+header{
+	font-family:Courier;
+	Background-color:#5b7c99;
+}
+Footer{
+font-size:0.8em;
+Background-color:#eddea4;
+}
+
+
