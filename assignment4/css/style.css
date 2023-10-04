@@ -1,0 +1,87 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+	background-color: rgba(128,98,92)
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+h1{
+font-size:20px;	
+}
+
+h2{
+font-size:15px;	
+}
+.you{
+font-size:120px;
+font-family:"Oswald", sans-serif;
+color:#f0ccc5;
+text-transform:uppercase;
+position:absolute;
+top:40px;
+left:200px;
+
+
+}
+
+.what{
+font-size:100px;
+font-family:"Oswald", sans-serif;
+color:#f0ccc5;
+text-transform:lowercase;
+position:absolute;
+top:150px;
+left:650px;
+}
+
+.desire{
+font-size:150px;
+color:#66372d;
+text-transform:uppercase;
+word-spacing:150px;
+position:absolute;
+top:300px;
+left:250px;
+font-family: "Oswald", sans-serif;
+}
+
+.unless{
+font-size:100px;
+color:#f0ccc5;
+text-transform:lowercase;
+position:absolute;
+top:450px;
+left:76px;
+
+}
+
+.for{
+font-size:100px;
+color:#66372d;
+text-transform:uppercase;
+position:absolute;
+top:550px;
+right:100px;
+}
+
+
+	
+
+
+footer{
+font-size:15px;
+position:absolute;
+bottom:1px;
+left:1px;	
+}
+
+
