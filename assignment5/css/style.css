@@ -1,0 +1,167 @@
+
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+body{
+background-color:#9dc7b1;
+}
+.square{
+height:700px;
+width:700px;
+background-color:#727475;
+position:absolute;
+top:50px;
+right:300px;
+transition: all 2s;	
+}
+.square:hover{
+background-color:#ccf1ff;
+}
+
+.creative{
+width:700px;
+height:500px;
+border-radius:20%;
+transform:skew(50deg);
+background-color:#8c840d;
+position:absolute;
+top:150px;
+right:20px;
+transition: all 2s;
+}
+.creative:hover{
+opacity:0.5;
+}
+.circle2{
+height:600px;
+width:600px;
+background-color:#dab3f5;
+border-radius:50%;
+position:absolute;
+top:30px;
+left:0px;
+transition: all 2s;
+}
+.circle2:hover{
+background-color:#8d22d4;
+}
+.circle{
+height: 400px;
+width: 400px;
+background-color: #7cdece;
+border-radius:50%;
+position:absolute;
+top:70px;
+left:100px;
+}
+
+.small-circle1{
+height:200px;
+width:200px;
+background-color:#6c17ff;
+border-radius: 50%;
+position:absolute;
+top:200px;
+left:200px;
+transition:all 2s;
+}
+.small-circle1:hover{
+opacity:0.5;
+background-color:#116b8c;
+}
+
+.parallelogram{
+width:300px;
+height:450px;
+transform: skew(20deg);
+background-color: #cf2ade;
+position:absolute;
+top:100px;
+right:250px;	
+}
+
+.triangle{
+width:0px;
+height:0px;
+border-top: 145px solid transparent;
+border-right:350px solid #fffb80;
+border-bottom:245px solid transparent;
+position:absolute;
+top:350px;
+left:100px;	
+transition: all 2s;
+}
+
+.triangle:hover{
+	background-color:#e6b53c;
+}
+
+.oval{
+height:350px;
+width:350px;
+background-color:rgba(71, 193, 220);
+border-radius:50px;
+position:absolute;
+top:100px;
+right:100px;
+transition: all 2s;
+}
+.oval:hover{
+background-color:#7cdece;
+opacity:0.5;
+}
+.left-eye{
+height:200px;
+width:200px;
+background-color:#8c1e0d;
+border-radius: 50%;
+position:absolute;
+top:200px;
+right:200px;
+transition:all 2s;
+}
+.left-eye:hover{
+background-color:#ff2200;
+opacity:0.5;
+}
+
+.triangle-down{
+width:0;
+height:0px;
+border-left:125px solid transparent;
+border-right:125px solid transparent;
+border-top:200px solid #e64a3c;
+position:absolute;
+top:400px;
+left:500px;	
+transition:all 1s;
+}
+
+.triangle-down:hover{
+background-color:none;
+opacity:0.5;	
+}
+
+.random1{
+border-bottom:150px solid #ff19cd;
+border-left: 45px solid transparent;
+height:0;
+width:525px;
+position:absolute;
+top:500px;
+right:500px;
+transition: all 2s;	
+}
+.random1:hover{
+opacity:0.5;
+}
+
