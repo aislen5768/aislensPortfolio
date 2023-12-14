@@ -1,0 +1,110 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body.home {
+background-image: radial-gradient( #e96196 0%, #f07fbb 74%),
+radial-gradient(#ffffff 74%, transparent 20%);
+background-color:(#eb64d0);
+background-position: 0 0, 50px 50px;
+background-size: 100px 100px;
+}
+	
+
+div.nav-pink{
+margin:auto;
+padding-top: 25px;
+height: 50px;
+text-align:center;
+}
+
+div.centered{
+margin:auto;
+width: 150px;
+}
+
+img{
+display:block;
+margin-left:auto;
+margin-right:auto;
+width: 50%;	
+}
+
+body.everything{
+background-image: radial-gradient(#ee96ff 0%,#f0cdf7 74%),
+radial-gradient(#fcdcfa 74%, transparent 20%);
+background-color:(#ff70f5);
+background-position: 0 0, 50px 50px;
+background-size:100px 100px;
+}
+div.tittle{
+font-size: 20px;
+margin-left: 250px;
+
+}
+
+div.image2{
+width: 50%;
+margin-left:250px;
+}
+
+div.ranked1{
+margin-left:445px;	
+}
+
+div.image3{
+width:50%;
+height:50%;	
+margin-left:250px;
+}
+
+div.ranked2{
+margin-left:445px;
+margin-top: -50px;
+}
+
+div.image4{
+width:50%;
+height:50%;
+margin-left:250px;
+
+}
+
+div.ranked3{
+margin-left:445px;
+margin-top:-50px;
+}
+
+div.image5{
+width:50%;
+height:50%;
+margin-left:250px;
+}
+
+div.ranked4{
+margin-left:445px;
+margin-top:-130px;
+}
+
+div.image6{
+width:50%;
+height:50%;
+margin-left:250px;
+}
+
+div.ranked5{
+margin-left:445px;
+margin-top:-120px;
+}
