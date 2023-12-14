@@ -51,60 +51,60 @@ background-size:100px 100px;
 }
 div.tittle{
 font-size: 20px;
-margin-left: 250px;
+margin-left: 400px;
 
 }
 
 div.image2{
 width: 50%;
-margin-left:250px;
+margin-left:300px;
 }
 
 div.ranked1{
-margin-left:445px;	
+margin-left:550px;	
 }
 
 div.image3{
 width:50%;
 height:50%;	
-margin-left:250px;
+margin-left:300px;
 }
 
 div.ranked2{
-margin-left:445px;
-margin-top: -50px;
+margin-left:550px;
+margin-top: -25px;
 }
 
 div.image4{
 width:50%;
 height:50%;
-margin-left:250px;
+margin-left:300px;
 
 }
 
 div.ranked3{
-margin-left:445px;
-margin-top:-50px;
+margin-left:550px;
+margin-top:-25px;
 }
 
 div.image5{
 width:50%;
 height:50%;
-margin-left:250px;
+margin-left:300px;
 }
 
 div.ranked4{
-margin-left:445px;
-margin-top:-130px;
+margin-left:550px;
+margin-top:-95px;
 }
 
 div.image6{
 width:50%;
 height:50%;
-margin-left:250px;
+margin-left:300px;
 }
 
 div.ranked5{
-margin-left:445px;
-margin-top:-120px;
+margin-left:550px;
+margin-top:-95px;
 }
